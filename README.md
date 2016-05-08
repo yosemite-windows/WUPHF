@@ -1,2 +1,2 @@
 # WUPHF
-Just a little testing project from Candi
+This is a testing project from Candi !
